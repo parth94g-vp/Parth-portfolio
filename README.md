@@ -396,10 +396,6 @@ Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning at **W
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 <p align="center">
