@@ -219,44 +219,6 @@ The mobile experience provides a simplified responsive interface while maintaini
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Desktop Overview
-
-![Parth Portfolio Desktop Overview](public/assets/screenshots/desktop_overview.png)
-
----
-
-### 📁 Portfolio Explorer
-
-![Portfolio Explorer](public/assets/screenshots/portfolio_explorer.png)
-
----
-
-### 👩‍💻 About Parth
-
-![About Parth](public/assets/screenshots/about_parth.png)
-
----
-
-### 💻 Projects
-
-![Projects](public/assets/screenshots/projects.png)
-
----
-
-### 🤖 Ask Parth AI Assistant
-
-![Ask Parth AI Assistant](public/assets/screenshots/ask_parth.png)
-
----
-
-### 💻 Terminal
-
-![Terminal](public/assets/screenshots/terminal.png)
-
----
-
 ## 🧠 Engineering Highlights
 
 ### Component-Based Architecture
