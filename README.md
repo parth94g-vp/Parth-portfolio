@@ -136,42 +136,6 @@ Technical projects are presented with:
 * Live demo where available
 * Limitations
 
-Projects currently represented include:
-
-* **Scientific Literature Explorer**
-* **CommunityPulse AI**
-* **Anonymous Safety Intelligence System / SafeVoice**
-
-### 💼 Experience
-
-Currently documented experience includes:
-
-* **Machine Learning Intern — FlyRank AI**
-* **AI Automation & Intelligent Solutions Intern — BharatCares / IBM SkillsBuild with AICTE**
-* **Open Source Contributor — GSSoC 2026, SSoC 2026 & Nexus Spring of Code**
-
-### 🏆 Achievements
-
-Selected achievements represented in the portfolio include:
-
-* **Winner — Elite Her Hackathon 2026, Influencer & Communication Track**
-* **Finalist — India Innovates 2026**
-* **Top 20 National Finalist — Praxis 2.0**
-* **Top 50 Finalist — Elite Hack 1.0**
-* **Finalist — Hack on Titan**
-* **Offline-Round Advancement — Hack4Delhi**
-
-### 📜 Certifications
-
-The portfolio includes certification and program records covering areas such as:
-
-* AI Agents / Google ADK
-* AI Fluency
-* Machine Learning
-* Data Analytics
-* Postman APIs
-* Python
-* Hackathons and technical programs
 
 ### 📄 Resume
 
@@ -385,16 +349,6 @@ Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning at **W
 * **GitHub:** https://github.com/parth94g-vp
 * **LinkedIn:** https://www.linkedin.com/in/parth-garge
 * **Portfolio:** https://parth-portfolio-xi.vercel.app/
-
----
-
-## 🔗 Other Projects
-
-* **Scientific Literature Explorer:** https://scientific-literature-explorer-rag.streamlit.app/
-* **CommunityPulse AI:** https://community-pulse-ai.onrender.com/
-* **Anonymous Safety Intelligence System:** https://anonymous-safety-intelligence-syste.vercel.app/
-
----
 
 ---
 
