@@ -348,7 +348,6 @@ Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning at **W
 
 * **GitHub:** https://github.com/parth94g-vp
 * **LinkedIn:** https://www.linkedin.com/in/parth-garge
-* **Portfolio:** https://parth-portfolio-xi.vercel.app/
 
 ---
 
