@@ -8,7 +8,7 @@
 
 Explore the deployed portfolio:
 
-_(Not deployed yet — replace this line with your live URL once you deploy, e.g. via Vercel.)_
+_https://parth-portfolio-gamma-lac.vercel.app/_
 
 The portfolio goes beyond a traditional scrolling website with an operating-system-inspired interface, application-style navigation, interactive windows, portfolio search, and an AI-powered **Ask Parth** assistant.
 
