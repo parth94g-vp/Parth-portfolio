@@ -275,8 +275,7 @@ The portfolio is deployed on **Vercel**.
 
 ### Live Portfolio
 
-https://parth-portfolio-xi.vercel.app/
-
+(https://parth-portfolio-gamma-lac.vercel.app/)
 For the deployed **Ask Parth** assistant to work, the production environment must have:
 
 ```text
